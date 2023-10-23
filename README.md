@@ -1,3 +1,15 @@
+# 웹퍼블리셔 지망생: 임가현
+## "I aspire to become a prospective web publisher."
+깃허브 프로필 소개입니다.
+
+경력과 스킬&툴, Portfolio 등 소개가 있습니다.
+
+### 기본정보
+- 2002.12월 생
+- 서울시 거주
+- 여자
+
+
 <h1 align="center">Hi 👋, I'm 임가현</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
